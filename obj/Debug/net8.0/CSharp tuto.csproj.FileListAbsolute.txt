@@ -1,0 +1,14 @@
+C:\Users\HP\CSharp tuto\bin\Debug\net8.0\CSharp tuto.exe
+C:\Users\HP\CSharp tuto\bin\Debug\net8.0\CSharp tuto.deps.json
+C:\Users\HP\CSharp tuto\bin\Debug\net8.0\CSharp tuto.runtimeconfig.json
+C:\Users\HP\CSharp tuto\bin\Debug\net8.0\CSharp tuto.dll
+C:\Users\HP\CSharp tuto\bin\Debug\net8.0\CSharp tuto.pdb
+C:\Users\HP\CSharp tuto\obj\Debug\net8.0\CSharp tuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\CSharp tuto\obj\Debug\net8.0\CSharp tuto.AssemblyInfoInputs.cache
+C:\Users\HP\CSharp tuto\obj\Debug\net8.0\CSharp tuto.AssemblyInfo.cs
+C:\Users\HP\CSharp tuto\obj\Debug\net8.0\CSharp tuto.csproj.CoreCompileInputs.cache
+C:\Users\HP\CSharp tuto\obj\Debug\net8.0\CSharp tuto.dll
+C:\Users\HP\CSharp tuto\obj\Debug\net8.0\refint\CSharp tuto.dll
+C:\Users\HP\CSharp tuto\obj\Debug\net8.0\CSharp tuto.pdb
+C:\Users\HP\CSharp tuto\obj\Debug\net8.0\CSharp tuto.genruntimeconfig.cache
+C:\Users\HP\CSharp tuto\obj\Debug\net8.0\ref\CSharp tuto.dll
